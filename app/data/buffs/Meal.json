@@ -354,6 +354,38 @@
     }
   },
   {
+    "control_percent": 5,
+    "control_value": 56,
+    "cp_percent": 21,
+    "cp_value": 57,
+    "hq": false,
+    "id": "3a08e09ab95",
+    "name": {
+      "cn": "",
+      "de": "",
+      "en": "Chili Crab",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+    }
+  },
+  {
+    "control_percent": 6,
+    "control_value": 70,
+    "cp_percent": 26,
+    "cp_value": 72,
+    "hq": true,
+    "id": "3a08e09ab95",
+    "name": {
+      "cn": "",
+      "de": "",
+      "en": "Chili Crab",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+    }
+  },
+  {
     "control_percent": 10,
     "control_value": 58,
     "cp_percent": 4,

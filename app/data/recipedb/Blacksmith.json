@@ -18746,5 +18746,290 @@
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "13d3517e302",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Säge",
+      "en": "Aesthete's Saw",
+      "fr": "Scie esthétique",
+      "ja": "",
+      "ko": "エースセチック・ソー"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "f003af8a481",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Klauenhammer",
+      "en": "Aesthete's Claw Hammer",
+      "fr": "Marteau arrache-clou esthétique",
+      "ja": "",
+      "ko": "エースセチック・クローハンマー"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "519062ab42a",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Kreuzschlaghammer",
+      "en": "Aesthete's Cross-pein Hammer",
+      "fr": "Marteau à panne croisée",
+      "ja": "",
+      "ko": "エースセチック・クロスペインハンマー"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "3fc784a9abd",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Feile",
+      "en": "Aesthete's File",
+      "fr": "Lime esthétique",
+      "ja": "",
+      "ko": "エースセチック・ファイル"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "44f45141cfe",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Schlichthammer",
+      "en": "Aesthete's Raising Hammer",
+      "fr": "Marteau de batteur esthétique",
+      "ja": "",
+      "ko": "エースセチック・レイジングハンマー"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "28d8fa8c753",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Zange",
+      "en": "Aesthete's Pliers",
+      "fr": "Tenailles esthétiques",
+      "ja": "",
+      "ko": "エースセチック・プライヤー"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "699ec720905",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Fäustel",
+      "en": "Aesthete's Mallet",
+      "fr": "Massette esthétique",
+      "ja": "",
+      "ko": "エースセチック・マレット"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "1a99a3980a8",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetisches Rundmesser",
+      "en": "Aesthete's Round Knife",
+      "fr": "Couteau arrondi esthétique",
+      "ja": "",
+      "ko": "エースセチック・ラウンドナイフ"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "ea891a5d914",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Ahle",
+      "en": "Aesthete's Awl",
+      "fr": "Poinçon esthétique",
+      "ja": "",
+      "ko": "エースセチック・アウル"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "2f2adcdfa11",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Mörser",
+      "en": "Aesthete's Mortar",
+      "fr": "Mortier esthétique",
+      "ja": "",
+      "ko": "エースセチック・モーター"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "1e9b62a67c2",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetisches Küchenmesser",
+      "en": "Aesthete's Culinary Knife",
+      "fr": "Couteau de cuisine esthétique",
+      "ja": "",
+      "ko": "エースセチック・クリナリーナイフ"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "f7cb622bfae",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Spitzhacke",
+      "en": "Aesthete's Pickaxe",
+      "fr": "Pioche esthétique",
+      "ja": "",
+      "ko": "エースセチック・ピック"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "f93090845af",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetischer Vorschlaghammer",
+      "en": "Aesthete's Sledgehammer",
+      "fr": "Maillet esthétique",
+      "ja": "",
+      "ko": "エースセチック・モール"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "2cbe91341ee",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetisches Handbeil",
+      "en": "Aesthete's Hatchet",
+      "fr": "Hachette esthétique",
+      "ja": "",
+      "ko": "エースセチック・ハチェット"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "a8d8b46626e",
+    "level": 490,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "",
+      "de": "Ästhetische Sense",
+      "en": "Aesthete's Scythe",
+      "fr": "Faux esthétique",
+      "ja": "",
+      "ko": "エースセチック・サイズ"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
   }
 ]
